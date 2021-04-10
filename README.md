@@ -1,6 +1,6 @@
 ### Hey, I’m Tomas Ferreira 🤙
 
-👨‍💻 I’m an innovative developer with a year and half of experience building web and mobile applications. I love teaching, learning new skills, and creating things
+👨‍💻 I’m an innovative developer with two years of experience building web and mobile applications. I love teaching, learning new skills, and creating things
 
 💡 I’m currently working at Senits, a company focused on creating it solutions for the energy market
 
